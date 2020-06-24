@@ -1,0 +1,1 @@
+{"name":"donlog-front","version":"1.0.0","main":"index.js","author":{"name":"dongwooh"},"scripts":{"dev":"next"},"license":"ISC","dependencies":{"next":"^9.4.4","react":"^16.13.1","react-dom":"^16.13.1"},"readme":"ERROR: No README data found!","_id":"donlog-front@1.0.0"}
