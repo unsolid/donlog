@@ -1,7 +1,14 @@
 import React from 'react';
+import NavigationBar from '../components/NavigationBar';
+import Profile from '../components/Profile';
 
 const home = () => {
-  return <div>동우의 블로그</div>;
+  return (
+    <>
+      <NavigationBar />
+      <Profile />
+    </>
+  );
 };
 
 export default home;
